@@ -1,2 +1,2 @@
 # mzgitshop
-a demo teching github
+a demo teaching github
